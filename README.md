@@ -1,2 +1,2 @@
 # codedex
-all my codex projects and shenanigans :)
+all my codedex projects and shenanigans :)
